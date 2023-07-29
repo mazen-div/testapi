@@ -2,27 +2,27 @@
   "cards": [
     {
       "id": 1,
-      "title": "Burak",
+      "title": "Good Quality",
       "name":"Salem",
       "desc":"Special Chefs in Menouf",
       "image":"https://i.ibb.co/Nt3165s/medal.png"
     },
    {
       "id": 2,
-      
-      "title": "Assasitant Chef",
-      "desc":"Special Chefs in Tanta"
+      "image":"https://cdn-icons-png.flaticon.com/512/9561/9561692.png",
+      "title": "Fast Delivery",
+      "desc":"Faster Than Ali Malooul"
     }, {
       "id": 3,
-     
-      "title": "Special Chef",
-      "desc":"Special Chefs in Menouf"
+     "image":"https://cdn-icons-png.flaticon.com/512/1067/1067617.png",
+      "title": "24/7 Service",
+      "desc":"Hungry ? Just Call us"
     },
     {
       "id": 4,
-     
-      "title": "Special Chef",
-      "desc":"Special Chefs in Menouf"
+       "image":"https://cdn-icons-png.flaticon.com/512/556/556772.png",
+      "title": "Online Order",
+      "desc":"Just Book a Table"
     }
   ]
 
