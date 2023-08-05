@@ -51,6 +51,7 @@
    
     {
       "id":10,
+      "price":"12.55$",
       "meal":"Ahmed",
       "imag":"https://i.ibb.co/VvC4f0R/hq720.webp",
       "about":"I highly recommend this restaurant to anyone looking for a great meal. The atmosphere is cozy and welcoming, and the food is simply fantastic."
@@ -58,6 +59,7 @@
     
     {
       "id":11,
+      "price":"10.15$",
       "meal":"Ahmed",
       "imag":"https://i.ibb.co/VvC4f0R/hq720.webp",
       "about":"I highly recommend this restaurant to anyone looking for a great meal. The atmosphere is cozy and welcoming, and the food is simply fantastic."
@@ -65,6 +67,7 @@
     
     {
       "id":12,
+            "price":"15.05$",
       "meal":"Ahmed",
       "imag":"https://i.ibb.co/VvC4f0R/hq720.webp",
       "about":"I highly recommend this restaurant to anyone looking for a great meal. The atmosphere is cozy and welcoming, and the food is simply fantastic."
@@ -72,6 +75,8 @@
     
     {
       "id":13,
+            "price":"5.15$",
+
       "meal":"Ahmed",
       "imag":"https://i.ibb.co/VvC4f0R/hq720.webp",
       "about":"I highly recommend this restaurant to anyone looking for a great meal. The atmosphere is cozy and welcoming, and the food is simply fantastic."
