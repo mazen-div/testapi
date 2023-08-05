@@ -60,26 +60,26 @@
     {
       "id":11,
       "price":"10.15$",
-      "meal":"Ahmed",
+      "meal":"Turkey Club",
       "imag":"https://img.freepik.com/free-photo/top-view-tasty-sandwiches-with-green-salad-tomatoes-french-fries-light-desk_140725-29937.jpg?w=740&t=st=1691241384~exp=1691241984~hmac=4a3443d0f428fd4002b35d7c5500b7196f6685ed3960bd7661e68b85ecd208db",
-      "about":"I highly recommend this restaurant to anyone looking for a great meal. The atmosphere is cozy and welcoming, and the food is simply fantastic."
+      "about":"Sliced turkey, bacon, lettuce, tomato, and mayo on toasted bread."
     },
     
     {
       "id":12,
             "price":"15.05$",
-      "meal":"Ahmed",
-      "imag":"https://i.ibb.co/VvC4f0R/hq720.webp",
-      "about":"I highly recommend this restaurant to anyone looking for a great meal. The atmosphere is cozy and welcoming, and the food is simply fantastic."
+      "meal":"Grilled Chicken Panini",
+      "imag":"https://www.itsyummi.com/wp-content/uploads/2014/03/grilled-chicken-panini-800.jpg",
+      "about":"Grilled chicken, mozzarella, pesto, and roasted red peppers on ciabatta bread."
     },
     
     {
       "id":13,
             "price":"5.15$",
 
-      "meal":"Ahmed",
-      "imag":"https://i.ibb.co/VvC4f0R/hq720.webp",
-      "about":"I highly recommend this restaurant to anyone looking for a great meal. The atmosphere is cozy and welcoming, and the food is simply fantastic."
+      "meal":"Italian Sub",
+      "imag":"https://www.carolynscooking.com/wp-content/uploads/2020/05/New-Classic-Italian-Sub-13.jpg",
+      "about":"Salami, ham, pepperoni, provolone, lettuce, tomato, onion, oil And vinegar."
     }
   ]
 }
