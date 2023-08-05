@@ -46,5 +46,35 @@
       "img":"https://i.ibb.co/VvC4f0R/hq720.webp",
       "comment":"I highly recommend this restaurant to anyone looking for a great meal. The atmosphere is cozy and welcoming, and the food is simply fantastic."
     }
+  ],
+  "menu":[
+   
+    {
+      "id":10,
+      "meal":"Ahmed",
+      "imag":"https://i.ibb.co/VvC4f0R/hq720.webp",
+      "about":"I highly recommend this restaurant to anyone looking for a great meal. The atmosphere is cozy and welcoming, and the food is simply fantastic."
+    },
+    
+    {
+      "id":11,
+      "meal":"Ahmed",
+      "imag":"https://i.ibb.co/VvC4f0R/hq720.webp",
+      "about":"I highly recommend this restaurant to anyone looking for a great meal. The atmosphere is cozy and welcoming, and the food is simply fantastic."
+    },
+    
+    {
+      "id":12,
+      "meal":"Ahmed",
+      "imag":"https://i.ibb.co/VvC4f0R/hq720.webp",
+      "about":"I highly recommend this restaurant to anyone looking for a great meal. The atmosphere is cozy and welcoming, and the food is simply fantastic."
+    },
+    
+    {
+      "id":13,
+      "meal":"Ahmed",
+      "imag":"https://i.ibb.co/VvC4f0R/hq720.webp",
+      "about":"I highly recommend this restaurant to anyone looking for a great meal. The atmosphere is cozy and welcoming, and the food is simply fantastic."
+    }
   ]
 }
