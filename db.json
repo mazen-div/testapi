@@ -29,18 +29,21 @@
     {
       "id":5,
       "name":"Murad Makram",
+      "img":"https://i.ibb.co/sF98458/unnamed.jpg",
       "comment":"I had an amazing experience at this restaurant! The food was absolutely delicious and the service was top-notch."
     },
     
     {
       "id":6,
       "name":"Hemida",
+      "img":"https://i.ibb.co/X2tTdkD/download.jpg",
       "comment":"I've been to many restaurants in the area, but this one truly stands out. The flavors in each dish were perfectly balanced, and the presentation was beautiful."
     },
     
     {
       "id":7,
       "name":"Ahmed",
+      "img":"https://i.ibb.co/VvC4f0R/hq720.webp",
       "comment":"I highly recommend this restaurant to anyone looking for a great meal. The atmosphere is cozy and welcoming, and the food is simply fantastic."
     }
   ]
