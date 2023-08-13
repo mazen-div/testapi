@@ -3,23 +3,29 @@
     {
       "id": 1,
       "title": "Good Quality",
-      "name":"Salem",
+      "name":"card1",
       "desc":"Special Chefs in Menouf",
       "image":"https://cdn-icons-png.flaticon.com/512/610/610333.png"
     },
    {
       "id": 2,
+           "name":"card2",
+
       "image":"https://cdn-icons-png.flaticon.com/512/9561/9561692.png",
       "title": "Fast Delivery",
       "desc":"Faster Than Ali Malooul"
     }, {
       "id": 3,
+           "name":"card3",
+
      "image":"https://cdn-icons-png.flaticon.com/512/1067/1067617.png",
       "title": "24/7 Service",
       "desc":"Hungry ? Just Call us"
     },
     {
       "id": 4,
+            "name":"card4",
+
        "image":"https://cdn-icons-png.flaticon.com/512/556/556772.png",
       "title": "Online Order",
       "desc":"Just Book a Table NOW!"
